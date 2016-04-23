@@ -6,7 +6,7 @@ Lorem ipsum dolor sit amet. <!--- Substitua com a descrição curta sobre o time
 <!--- Marque qual(is) área(s) o time atua -->
 
 - [ ] Connect Devices
-- [ ] Controle de Qualidade (QA)
+- [ ] Qualidade e Garantia (QA)
 - [ ] Desenvolvimento (Complementos / WebDev )
 - [ ] Design
 - [ ] Firefox
